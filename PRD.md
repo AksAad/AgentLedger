@@ -1,7 +1,6 @@
 # AgentLedger — Product Requirements Document
 
 **Document Status:** Draft  
-**Version:** 1.0  
 **Product:** AgentLedger  
 **Document Type:** Product Requirements Document  
 **Primary Category:** AI Agent Governance, Runtime Authorization, Auditability, Enterprise AI Infrastructure
