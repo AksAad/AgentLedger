@@ -2985,9 +2985,9 @@ The demo should immediately show the complete runtime governance flow.
 
 ---
 
-# 53. Success Criteria for Version 1.0
+# 53. Success Criteria
 
-AgentLedger Version 1.0 should be considered successful when:
+AgentLedger should be considered successful when:
 
 1. A developer can integrate an agent through the AgentLedger API or SDK.
 2. The system can govern MCP and REST tool calls.
